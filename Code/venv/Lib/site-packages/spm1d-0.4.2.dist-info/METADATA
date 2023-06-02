@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: spm1d
+Version: 0.4.2
+Summary: One-Dimensional Statistical Parametric Mapping
+Home-page: https://github.com/0todd0000/spm1d
+Author: Todd Pataky
+Author-email: spm1d.mail@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/0todd0000/spm1d/archive/master.zip
+Keywords: statistics,time series analysis
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+
+
+**spm1d** is a Python package for <b>one-dimensional Statistical Parametric Mapping<b>.
+spm1d uses <b>Random Field Theory</b> expectations regarding the behavior of smooth,
+one-dimensional Gaussian fields to make statistical inferences regarding a set of
+one-dimensional measurements.
+
+

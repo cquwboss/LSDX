@@ -1,0 +1,5 @@
+1.The date of this file includes factors and dependent variables, which need to be filled in from the decomposition result of the upper level file SSA
+
+2.matlab runs the mixed optimization SVR.(Run main.m)
+
+3.matlab needs to be derived by itself.

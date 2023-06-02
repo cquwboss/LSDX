@@ -1,0 +1,13 @@
+1、python3.7 is included. Go to the venv\Script folder and run activate.bat to activate it
+
+2、Copy YY208 for the cumulative displacement in date.
+
+3、Run python main.py to get saa_results.xls. (Data preprocessing)）
+
+4、Then run curve-trend.py to get the trend item fitting result file trebd_curve_date.xls. (trend item fitting)
+
+5、The period item prediction is in the period_prediction folder. (including hybrid optimization SVRS and single optimization SVRS)
+
+
+
+
